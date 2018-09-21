@@ -1,0 +1,31 @@
+﻿  lab1.cpp
+  lab1.vcxproj -> F:\контроль качества\lab1\Debug\lab1.exe
+  F:\контроль качества\lab1\Debug\lab1.exe
+  Сравнение файлов output1.txt и FEWARGUMENTS.TXT
+  FC: различия не найдены
+  
+  Сравнение файлов output2.txt и NOTALLARGUMENTISDIGIT.TXT
+  FC: различия не найдены
+  
+  Сравнение файлов output3.txt и SIMPLETRIANGLE.TXT
+  FC: различия не найдены
+  
+  Сравнение файлов output4.txt и ISOSCELESTRIANGLE.TXT
+  FC: различия не найдены
+  
+  Сравнение файлов output5.txt и EQUILATERALTRIANGLE.TXT
+  FC: различия не найдены
+  
+  Сравнение файлов output6.txt и NOTTRIANGLE.TXT
+  FC: различия не найдены
+  
+  Сравнение файлов output7.txt и SIMPLETRIANGLE.TXT
+  FC: различия не найдены
+  
+  Сравнение файлов output7.txt и SIMPLETRIANGLE.TXT
+  FC: различия не найдены
+  
+  Сравнение файлов output8.txt и ISOSCELESTRIANGLE.TXT
+  FC: различия не найдены
+  
+  Program testing succeeded

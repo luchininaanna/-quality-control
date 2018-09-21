@@ -1,0 +1,2 @@
+This program should receive the input 3 numbers (3 sides of the triangle)
+You did not enter enough arguments
